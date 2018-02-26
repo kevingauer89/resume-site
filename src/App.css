@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display+SC');
+@import url('https://fonts.googleapis.com/css?family=Prompt');
+
+.App {
+}
+.Title-style {
+  font-size: 46px;
+  text-align: center;
+  font-family: 'Prompt', sans-serif;
+}
+.Flex-container {
+  display: flex;
+  height: 100%;
+  width: 100vw;
+  background-color: #e0ffff;
+  flex-direction: column;
+  margin: 10px;
+  align-items: center;
+}
+.Flex-container > div {
+  height: 100%;
+  width: 80%;
+  border: 2px solid black;
+  margin: 25px;
+  padding: 10px;
+}
+
+.Box-content {
+  font-size: 30px;
+  text-align: center;
+  font-weight: bold;
+  line-height: 0;
+}
+.Postmates {
+
+}
+.Kw {
+}
+.Aac {
+
+}
+.Certification {
+
+}
+.Center{
+  justify-content: center;
+}
+.App-header {
+  font-family: 'Playfair Display SC', serif;
+  background-color: gray;
+  height: 160px;
+  padding: 20px;
+  color: white;
+  font-size: 60px;
+  line-height: 30px;
+  text-align: center;
+}
+.Img-format {
+  width: 220px;
+  height: 125px;
+  justify-content: center;
+}
+.List-format {
+  font-size: 26px;
+  font-weight: normal;
+}
+.h1 {
+  line-heigth: 0;
+  text-align: center;
+}
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
