@@ -4,8 +4,8 @@
 .App {
 }
 .Title-style {
-  font-size: 46px;
-  text-align: center;
+  line-height: 175px;
+  font-size: 60px;
   font-family: 'Prompt', sans-serif;
 }
 .Flex-container {
@@ -75,4 +75,7 @@
 .App-intro {
   font-size: large;
 }
-
+.Not-found {
+  font-size: 100px;
+  text-align: center;
+}
